@@ -1,4 +1,4 @@
-RELEASE CANDIDATE 1.13 Admin Event Truck xml Snippets Mod Changelog & Terms Of Use
+RELEASE CANDIDATE Admin Event Truck xml Snippets Mod Changelog & Terms Of Use
 
 Limited Testing on PS4 & Xbox Series S & PC Chernarus Nitrado Private Server DAYZ Version 1.13 July 2021.
 
